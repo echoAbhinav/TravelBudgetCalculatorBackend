@@ -1,7 +1,6 @@
 # Requirements (requirements.txt)
-"""
+
 flask
 flask-cors
 google-generativeai
 python-dotenv
-"""
