@@ -1,0 +1,2 @@
+2025-03-26 13:25:37,173 - __main__ - CRITICAL - Critical initialization error: Gemini API key is missing. Set GEMINI_API_KEY environment variable.
+2025-03-26 13:25:37,173 - __main__ - CRITICAL - Missing environment variables: ['GEMINI_API_KEY']
