@@ -1,0 +1,75 @@
+2025-04-04 23:11:39,622 - __main__ - CRITICAL - Chatbot initialization failed: GEMINI_API_KEY not found in environment variables
+2025-04-04 23:11:39,668 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.200.54:3000
+2025-04-04 23:11:39,668 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 23:11:39,672 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-04 23:11:41,384 - __main__ - CRITICAL - Chatbot initialization failed: GEMINI_API_KEY not found in environment variables
+2025-04-04 23:11:41,398 - werkzeug - WARNING -  * Debugger is active!
+2025-04-04 23:11:41,427 - werkzeug - INFO -  * Debugger PIN: 716-615-279
+2025-04-04 23:11:49,924 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:11:49] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:11:49,930 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:11:49] "[35m[1mPOST /api/chat HTTP/1.1[0m" 503 -
+2025-04-04 23:12:11,482 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abhin\\Desktop\\FrontendAi\\backend\\app.py', reloading
+2025-04-04 23:12:12,272 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-04 23:12:14,113 - __main__ - CRITICAL - Chatbot initialization failed: GEMINI_API_KEY not found in environment variables
+2025-04-04 23:12:14,121 - werkzeug - WARNING -  * Debugger is active!
+2025-04-04 23:12:14,135 - werkzeug - INFO -  * Debugger PIN: 716-615-279
+2025-04-04 23:12:16,747 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:12:16] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:12:16,751 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:12:16] "[35m[1mPOST /api/chat HTTP/1.1[0m" 503 -
+2025-04-04 23:12:42,816 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abhin\\Desktop\\FrontendAi\\backend\\app.py', reloading
+2025-04-04 23:12:44,131 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-04 23:12:45,945 - __main__ - INFO - Gemini chatbot initialized successfully
+2025-04-04 23:12:45,961 - werkzeug - WARNING -  * Debugger is active!
+2025-04-04 23:12:45,971 - werkzeug - INFO -  * Debugger PIN: 716-615-279
+2025-04-04 23:12:46,784 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:12:46] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:12:48,501 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:12:48] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 23:13:13,250 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:13:13] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:13:24,230 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:13:24] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 23:16:30,508 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abhin\\Desktop\\FrontendAi\\backend\\app.py', reloading
+2025-04-04 23:16:30,539 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abhin\\Desktop\\FrontendAi\\backend\\app.py', reloading
+2025-04-04 23:16:33,451 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-04 23:21:47,325 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-04 23:21:49,050 - __main__ - INFO - Gemini chatbot initialized successfully
+2025-04-04 23:21:49,052 - __main__ - INFO - Chatbot initialized successfully
+2025-04-04 23:21:49,069 - werkzeug - WARNING -  * Debugger is active!
+2025-04-04 23:21:49,080 - werkzeug - INFO -  * Debugger PIN: 716-615-279
+2025-04-04 23:21:54,010 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:21:54] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:21:57,097 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:21:57] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 23:22:13,495 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:22:13] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:22:19,850 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:22:19] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 23:27:01,882 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abhin\\Desktop\\FrontendAi\\backend\\app.py', reloading
+2025-04-04 23:27:05,182 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-04 23:27:07,224 - __main__ - INFO - Gemini chatbot initialized successfully
+2025-04-04 23:27:07,224 - __main__ - INFO - Chatbot initialized successfully
+2025-04-04 23:27:07,232 - werkzeug - WARNING -  * Debugger is active!
+2025-04-04 23:27:07,242 - werkzeug - INFO -  * Debugger PIN: 716-615-279
+2025-04-04 23:27:08,146 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:27:08] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:27:11,955 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:27:11] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 23:27:19,302 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:27:19] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:27:21,282 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:27:21] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 23:27:34,165 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:27:34] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:27:36,436 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:27:36] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 23:27:52,273 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:27:52] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:27:52,805 - __main__ - ERROR - Response generation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-04-04 23:27:52,805 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:27:52] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 23:28:08,681 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:28:08] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 23:28:10,841 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 23:28:10] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 23:28:22,341 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abhin\\Desktop\\FrontendAi\\backend\\app.py', reloading
+2025-04-04 23:28:22,353 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abhin\\Desktop\\FrontendAi\\backend\\app.py', reloading
+2025-04-04 23:28:22,596 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abhin\\Desktop\\FrontendAi\\backend\\app.py', reloading
+2025-04-04 23:28:22,597 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abhin\\Desktop\\FrontendAi\\backend\\app.py', reloading
+2025-04-04 23:28:25,491 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-04 23:28:27,294 - __main__ - INFO - Gemini chatbot initialized successfully
+2025-04-04 23:28:27,294 - __main__ - INFO - Chatbot initialized successfully
+2025-04-04 23:28:27,311 - werkzeug - WARNING -  * Debugger is active!
+2025-04-04 23:28:27,321 - werkzeug - INFO -  * Debugger PIN: 716-615-279
